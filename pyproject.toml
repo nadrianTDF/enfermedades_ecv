@@ -1,0 +1,32 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "enfermedades_ecv"
+version = "0.0.1"
+description = "El objetivo de este trabajo es desarrollar un modelo de aprendizaje automatico capaz de predecir la presencia o ausencia de enfermedades cardiovasculares (ECV) en individuos, utilizando datos de salud y estilo de vida, con el fin de contribuir a la identificacion temprana de personas en riesgo y mejorar las estrategias de prevencion en la provincia."
+authors = [
+  { name = "Adrian Nicora" },
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: BSD License"
+]
+requires-python = "~=3.10.0"
+
+
+[tool.ruff]
+line-length = 99
+src = ["enfermedades_ecv"]
+include = ["pyproject.toml", "enfermedades_ecv/**/*.py"]
+
+[tool.ruff.lint]
+extend-select = ["I"]  # Add import sorting
+
+[tool.ruff.lint.isort]
+known-first-party = ["enfermedades_ecv"]
+force-sort-within-sections = true
+
