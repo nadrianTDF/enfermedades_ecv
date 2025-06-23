@@ -1,13 +1,14 @@
-# **Carpeta docs**
-Esta carpeta contiene todos los informes del proyecto, donde se pueden ver los análisis y modelos de predicción.
+# ***Análisis Predictivo de Enfermedad Cardiovascular Mediante Técnicas de Clasificación***
 
-## **Estructura de la Carpeta**
-La carpeta data está organizada de la siguiente manera:
+Esta carpeta contiene el informe del proyecto, donde se pueden ver los análisis y modelos de predicción. La carpeta data está organizada de la siguiente manera:
 
-- ***Análisis Predictivo de Enfermedad Cardiovascular Mediante Técnicas de Clasificación.pdf:*** Contiene el desarrollo de los jupyter notebooks del proyecto (sin codigo) para su lectura. En casi de queres ver el codigo, dirigirse a la acrpeta "notebooks/".
-- ***Análisis Predictivo de Enfermedad Cardiovascular Mediante Técnicas de Clasificación.mp4:*** Breve video explicativo del proyecto. Para visualizarlo acceder a travez de este link <https://youtu.be/HtEev4d-4D4>
+   - ***Análisis Predictivo de Enfermedad Cardiovascular Mediante Técnicas de Clasificación.pdf:*** Contiene el desarrollo de los jupyter notebooks del proyecto (sin codigo) para su lectura. En casi de queres ver el codigo, dirigirse a la acrpeta "notebooks/".
+    
+   - ***Análisis Predictivo de Enfermedad Cardiovascular Mediante Técnicas de Clasificación.mp4:*** Breve video explicativo del proyecto. Para visualizarlo acceder a travez de este link <https://youtu.be/HtEev4d-4D4>
 
----------
+A continuacion se puede hacer la lectura del informe:
+
+------
 
 # Instalacion de librerias
 #### En primer lugar, nos aseguramos de tener instaladas las librerías necesarias (pandas, numpy, matplotlib, seaborn, scikit-learn). En caso de necesitar instalar alguna, durante la ejecucion del notebook la podemos instalar ejecutando el bloque de codigo al inicio del archivo. Si no es necesario, se puede saltar y pasar al siguiente bloque.
