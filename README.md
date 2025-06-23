@@ -56,7 +56,7 @@ El proyecto sigue una estructura organizada en carpetas, diseñada para almacena
 
 ## **Link al video**
 
-https://drive.google.com/file/d/1A6KzZbSx9EEPaco8b_9h0KcJJlxw0q0Q/view?usp=sharing
+https://youtu.be/HtEev4d-4D4
 
 ## Project Organization
 
