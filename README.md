@@ -54,6 +54,10 @@ El proyecto sigue una estructura organizada en carpetas, diseñada para almacena
 - docs: Contiene los archivos pdf entregables del proyecto de Machine Learning junto al enlace del video explicativo.
 
 
+## **Link al video**
+
+https://drive.google.com/file/d/1A6KzZbSx9EEPaco8b_9h0KcJJlxw0q0Q/view?usp=sharing
+
 ## Project Organization
 
 ```
