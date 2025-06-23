@@ -1,12 +1,22 @@
-# **Análisis Predictivo de Enfermedad Cardiovascular Mediante Técnicas de Clasificación**
-
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a> 
 
-## **Autor:** 
 
-NICORA, Adrian Julio
+## ***POLITECNICO MALVINAS ARGENTINAS***
+
+### Materia:   *APRENDIZAJE AUTOMATICO*
+
+### Alumno:   *NICORA, Adrian Julio*
+
+### Profesor:   *MIRABETE, Martin*
+------
+ 
+ 
+# **Análisis Predictivo de Enfermedad Cardiovascular Mediante Técnicas de Clasificación**
+
+
+------
 
 ## **Objetivo:**
 
